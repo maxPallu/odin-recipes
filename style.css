@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(237, 204, 219);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(61, 59, 60);
+}
+
+a {
+    padding: 10px;
+    color: black;
+    font-size: 24px;
+    display: block;
+}
+
+img {
+    height: 250px;
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+    color: rgb(138, 76, 121);
+}
+
+.header {
+    padding: 30px;
+}
+
+.description {
+    display: inline-block;
+}
+
+.ingredients {
+    display: inline-block;
+    margin-left: 110px;
+}
+
+.steps {
+    display: inline-block;
+    padding: 30px;
+}
+
+li {
+    margin-top: 10px;
+}
